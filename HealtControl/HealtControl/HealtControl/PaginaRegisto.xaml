@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="HealtControl.PaginaRegisto">
+    <ContentPage.Content>
+        <StackLayout  Orientation="Vertical" BackgroundColor="Black">
+            <Label Text="Registrate a Health Control" FontSize="Title" TextColor="White" HorizontalOptions="Center"
+                   Margin="30"/>
+            <Image Source="HealthControl.png" WidthRequest="200"/>
+            <StackLayout Padding="20">
+                <Entry Placeholder="Nombre" PlaceholderColor="White" BackgroundColor="#212121"/>
+                <Entry Placeholder="Correo electrónico" PlaceholderColor="White" BackgroundColor="#212121"/>
+                <Entry Placeholder="Contraseña" IsPassword="True" PlaceholderColor="White" BackgroundColor="#212121"/>
+                <Button Text="Registrar" FontSize="Large" BackgroundColor="#00C851" x:Name="btnRegistrar" Clicked="btnRegistrar_Clicked"/>
+
+                <StackLayout 
+                    Grid.Row="2"
+                    HorizontalOptions="Center"
+                    Margin="0,0,0,50">
+                    <Label Text="Incia sesion con" TextColor="White" HorizontalOptions="Center" FontAttributes="Bold" />
+                    <StackLayout Orientation="Horizontal">
+                        <Image 
+                        Source="LoginFacebook.jpg"
+                        WidthRequest="100"
+                        x:Name="imgLoginFacebook"
+                        />
+                        <Image 
+                        Source="LoginGoogle.png"
+                        WidthRequest="100"
+                        x:Name="imgLoginGoogle"
+                        />
+                    </StackLayout>
+                </StackLayout>
+
+            </StackLayout>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

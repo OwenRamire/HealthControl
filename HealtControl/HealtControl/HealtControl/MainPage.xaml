@@ -5,12 +5,17 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              x:Class="HealtControl.MainPage">
+    <ContentPage.Content>
+        <Grid>
+            <Image Source="PantallaPrincipal.jpg" Aspect="AspectFill"/>
+            <Grid>
 
-    <StackLayout>
-        <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
-    </StackLayout>
-
+                <StackLayout Orientation="Vertical" VerticalOptions="Center" Padding="10">
+                    <Label Text=" Bienvenido a Health Control" HorizontalOptions="Center" FontSize="Title" FontFamily="Bold" />
+                    <Button x:Name="btnModalRegistrar" Clicked="btnModalRegistrar_Clicked" Text="Registrarte" TextColor="Black" BackgroundColor="LightBlue" />
+                    <Button x:Name="btnModalIniciarSesion" Clicked="btnModalIniciarSesion_Clicked" Text="Iniciar Sesion " TextColor="Black" BackgroundColor="LightBlue" />
+                </StackLayout>
+            </Grid>
+        </Grid>
+    </ContentPage.Content>
 </ContentPage>
