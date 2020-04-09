@@ -17,5 +17,17 @@ namespace HealtControl
         {
             InitializeComponent();
         }
+
+        private void btnModalIniciarSesion_Clicked(object sender, EventArgs e)
+        {
+            LoginPage modalPage = new LoginPage();
+            this.Navigation.PushModalAsync(modalPage);
+        }
+
+        private void btnModalRegistrar_Clicked(object sender, EventArgs e)
+        {
+            PaginaRegisto modalPage = new PaginaRegisto();
+            this.Navigation.PushModalAsync(modalPage);
+        }
     }
 }

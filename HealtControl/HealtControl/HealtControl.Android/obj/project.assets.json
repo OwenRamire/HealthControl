@@ -1934,24 +1934,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mauri\\.nuget\\packages\\": {},
+    "C:\\Users\\oweno\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mauri\\Documents\\Health Control\\HealtControl\\HealtControl\\HealtControl.Android\\HealtControl.Android.csproj",
+      "projectUniqueName": "C:\\Users\\oweno\\Documents\\HealthControl\\HealtControl\\HealtControl\\HealtControl.Android\\HealtControl.Android.csproj",
       "projectName": "HealtControl.Android",
-      "projectPath": "C:\\Users\\mauri\\Documents\\Health Control\\HealtControl\\HealtControl\\HealtControl.Android\\HealtControl.Android.csproj",
-      "packagesPath": "C:\\Users\\mauri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mauri\\Documents\\Health Control\\HealtControl\\HealtControl\\HealtControl.Android\\obj\\",
+      "projectPath": "C:\\Users\\oweno\\Documents\\HealthControl\\HealtControl\\HealtControl\\HealtControl.Android\\HealtControl.Android.csproj",
+      "packagesPath": "C:\\Users\\oweno\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\oweno\\Documents\\HealthControl\\HealtControl\\HealtControl\\HealtControl.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\mauri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\oweno\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1965,8 +1965,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\mauri\\Documents\\Health Control\\HealtControl\\HealtControl\\HealtControl\\HealtControl.csproj": {
-              "projectPath": "C:\\Users\\mauri\\Documents\\Health Control\\HealtControl\\HealtControl\\HealtControl\\HealtControl.csproj"
+            "C:\\Users\\oweno\\Documents\\HealthControl\\HealtControl\\HealtControl\\HealtControl\\HealtControl.csproj": {
+              "projectPath": "C:\\Users\\oweno\\Documents\\HealthControl\\HealtControl\\HealtControl\\HealtControl\\HealtControl.csproj"
             }
           }
         }
