@@ -1,0 +1,17 @@
+C:\Users\mauri\Documents\Health Control\HealtControl\HealtControl\HealtControl\bin\Debug\netstandard2.0\HealtControl.deps.json
+C:\Users\mauri\Documents\Health Control\HealtControl\HealtControl\HealtControl\bin\Debug\netstandard2.0\HealtControl.dll
+C:\Users\mauri\Documents\Health Control\HealtControl\HealtControl\HealtControl\bin\Debug\netstandard2.0\ref\HealtControl.dll
+C:\Users\mauri\Documents\Health Control\HealtControl\HealtControl\HealtControl\bin\Debug\netstandard2.0\HealtControl.pdb
+C:\Users\mauri\Documents\Health Control\HealtControl\HealtControl\HealtControl\obj\Debug\netstandard2.0\HealtControl.csprojAssemblyReference.cache
+C:\Users\mauri\Documents\Health Control\HealtControl\HealtControl\HealtControl\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mauri\Documents\Health Control\HealtControl\HealtControl\HealtControl\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\mauri\Documents\Health Control\HealtControl\HealtControl\HealtControl\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\mauri\Documents\Health Control\HealtControl\HealtControl\HealtControl\obj\Debug\netstandard2.0\HealtControl.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Documents\Health Control\HealtControl\HealtControl\HealtControl\obj\Debug\netstandard2.0\HealtControl.AssemblyInfoInputs.cache
+C:\Users\mauri\Documents\Health Control\HealtControl\HealtControl\HealtControl\obj\Debug\netstandard2.0\HealtControl.AssemblyInfo.cs
+C:\Users\mauri\Documents\Health Control\HealtControl\HealtControl\HealtControl\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\mauri\Documents\Health Control\HealtControl\HealtControl\HealtControl\obj\Debug\netstandard2.0\HealtControl.dll
+C:\Users\mauri\Documents\Health Control\HealtControl\HealtControl\HealtControl\obj\Debug\netstandard2.0\ref\HealtControl.dll
+C:\Users\mauri\Documents\Health Control\HealtControl\HealtControl\HealtControl\obj\Debug\netstandard2.0\HealtControl.pdb
+C:\Users\mauri\Documents\Health Control\HealtControl\HealtControl\HealtControl\obj\Debug\netstandard2.0\master.xaml.g.cs
+C:\Users\mauri\Documents\Health Control\HealtControl\HealtControl\HealtControl\obj\Debug\netstandard2.0\home.xaml.g.cs
