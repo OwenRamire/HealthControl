@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mauri\\Documents\\Health Control\\HealtControl\\HealtControl\\HealtControl\\HealtControl.csproj": {}
+    "C:\\Users\\oweno\\Documents\\HealthControl\\HealtControl\\HealtControl\\HealtControl\\HealtControl.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mauri\\Documents\\Health Control\\HealtControl\\HealtControl\\HealtControl\\HealtControl.csproj": {
+    "C:\\Users\\oweno\\Documents\\HealthControl\\HealtControl\\HealtControl\\HealtControl\\HealtControl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mauri\\Documents\\Health Control\\HealtControl\\HealtControl\\HealtControl\\HealtControl.csproj",
+        "projectUniqueName": "C:\\Users\\oweno\\Documents\\HealthControl\\HealtControl\\HealtControl\\HealtControl\\HealtControl.csproj",
         "projectName": "HealtControl",
-        "projectPath": "C:\\Users\\mauri\\Documents\\Health Control\\HealtControl\\HealtControl\\HealtControl\\HealtControl.csproj",
-        "packagesPath": "C:\\Users\\mauri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mauri\\Documents\\Health Control\\HealtControl\\HealtControl\\HealtControl\\obj\\",
+        "projectPath": "C:\\Users\\oweno\\Documents\\HealthControl\\HealtControl\\HealtControl\\HealtControl\\HealtControl.csproj",
+        "packagesPath": "C:\\Users\\oweno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oweno\\Documents\\HealthControl\\HealtControl\\HealtControl\\HealtControl\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\mauri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\oweno\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

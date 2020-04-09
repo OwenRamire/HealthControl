@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "THrkVY+mh4fng/28m8oyO+fP16OyJ1YxACmDwS/6T5hKu3VThwm6lfpg5cOSni5SJA1at1CIXhbC8NSyKQ/8OA==",
+  "dgSpecHash": "/ODsvkbZzkO8YtEOKG8RJyiEmiZvCwzq2J+J95KM1ROVUk2MvJSuqr2xnvEALHl00xMHpG30KODCOVHQgnFUtA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mauri\\Documents\\Health Control\\HealtControl\\HealtControl\\HealtControl.iOS\\HealtControl.iOS.csproj",
+  "projectFilePath": "C:\\Users\\oweno\\Documents\\HealthControl\\HealtControl\\HealtControl\\HealtControl.iOS\\HealtControl.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\mauri\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+    "C:\\Users\\oweno\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\oweno\\.nuget\\packages\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\oweno\\.nuget\\packages\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
   ],
   "logs": []
 }
