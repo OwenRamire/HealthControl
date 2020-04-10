@@ -14,7 +14,7 @@ namespace HealtControl {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("home.xaml")]
-    public partial class home : global::Xamarin.Forms.ContentPage {
+    public partial class home : global::Xamarin.Forms.MasterDetailPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {

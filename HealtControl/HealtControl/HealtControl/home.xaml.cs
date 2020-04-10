@@ -10,11 +10,13 @@ using Xamarin.Forms.Xaml;
 namespace HealtControl
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class home : ContentPage
+    public partial class home : MasterDetailPage
     {
         public home()
         {
             InitializeComponent();
+            this.Master = new master();
+            this.Detail = new NavigationPage(new DetailHome());
         }
     }
 }

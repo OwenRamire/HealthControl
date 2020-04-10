@@ -961,3 +961,9 @@ C:\Users\oweno\Documents\HealthControl\HealtControl\HealtControl\HealtControl.An
 C:\Users\oweno\Documents\HealthControl\HealtControl\HealtControl\HealtControl.Android\obj\Debug\90\res\drawable\pantallaprincipal.jpg
 C:\Users\oweno\Documents\HealthControl\HealtControl\HealtControl\HealtControl.Android\obj\Debug\90\res\drawable\loginfacebook.jpg
 C:\Users\oweno\Documents\HealthControl\HealtControl\HealtControl\HealtControl.Android\obj\Debug\90\res\drawable\logingoogle.png
+C:\Users\oweno\Documents\HealthControl\HealtControl\HealtControl\HealtControl.Android\obj\Debug\90\res\drawable\iconousuario.jpg
+C:\Users\oweno\Documents\HealthControl\HealtControl\HealtControl\HealtControl.Android\obj\Debug\90\res\mipmap-hdpi\healtcontrol.png
+C:\Users\oweno\Documents\HealthControl\HealtControl\HealtControl\HealtControl.Android\obj\Debug\90\res\mipmap-mdpi\healtcontrol.png
+C:\Users\oweno\Documents\HealthControl\HealtControl\HealtControl\HealtControl.Android\obj\Debug\90\res\mipmap-xhdpi\healtcontrol.png
+C:\Users\oweno\Documents\HealthControl\HealtControl\HealtControl\HealtControl.Android\obj\Debug\90\res\mipmap-xxhdpi\healtcontrol.png
+C:\Users\oweno\Documents\HealthControl\HealtControl\HealtControl\HealtControl.Android\obj\Debug\90\res\mipmap-xxxhdpi\healtcontrol.png

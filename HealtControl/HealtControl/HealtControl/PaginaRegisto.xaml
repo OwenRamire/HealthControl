@@ -11,9 +11,9 @@
                    Margin="30"/>
             <Image Source="HealthControl.png" WidthRequest="200"/>
             <StackLayout Padding="20">
-                <Entry Placeholder="Nombre" PlaceholderColor="White" BackgroundColor="#212121"/>
-                <Entry Placeholder="Correo electrónico" PlaceholderColor="White" BackgroundColor="#212121"/>
-                <Entry Placeholder="Contraseña" IsPassword="True" PlaceholderColor="White" BackgroundColor="#212121"/>
+                <Entry Placeholder="Nombre" x:Name="txtNombre" PlaceholderColor="White" BackgroundColor="#212121"/>
+                <Entry Placeholder="Correo electrónico" x:Name="txtCorreo" PlaceholderColor="White" BackgroundColor="#212121"/>
+                <Entry Placeholder="Contraseña" IsPassword="True" x:Name="txtContraseña" PlaceholderColor="White" BackgroundColor="#212121"/>
                 <Button Text="Registrar" FontSize="Large" BackgroundColor="#00C851" x:Name="btnRegistrar" Clicked="btnRegistrar_Clicked"/>
 
                 <StackLayout 

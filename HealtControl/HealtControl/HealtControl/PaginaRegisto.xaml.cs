@@ -17,9 +17,29 @@ namespace HealtControl
             InitializeComponent();
         }
 
-        private void btnRegistrar_Clicked(object sender, EventArgs e)
+        private async void btnRegistrar_Clicked(object sender, EventArgs e)
         {
-
+            //validaciones locales para que esten los campos llenos 
+            if(string.IsNullOrEmpty(txtNombre.Text)) //Si el campo de nombre se encuentra vacio
+            {
+                await DisplayAlert("Error", "Algun campo esta vacio", "Aceptar");
+                txtNombre.Focus();
+                return;
+            }
+            if (string.IsNullOrEmpty(txtCorreo.Text)) //Si el campo de correo se encuentra vacio
+            {
+                await DisplayAlert("Error", "Algun campo esta vacio", "Aceptar");
+                txtCorreo.Focus();
+                return;
+            }
+            if (string.IsNullOrEmpty(txtContraseña.Text)) //Si el campo de contraseña se encuentra vacio
+            {
+                await DisplayAlert("Error", "Algun campo esta vacio", "Aceptar");
+                txtContraseña.Focus();
+                return;
+            }
+            
+            
         }
     }
 }

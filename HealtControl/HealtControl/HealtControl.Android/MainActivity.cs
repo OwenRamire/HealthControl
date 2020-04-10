@@ -7,9 +7,10 @@ using Android.Views;
 using Android.Widget;
 using Android.OS;
 
+
 namespace HealtControl.Droid
 {
-    [Activity(Label = "HealtControl", Icon = "@mipmap/icon", Theme = "@style/MainTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
+    [Activity(Label = "HealtControl", Icon = "@mipmap/HealtControl", Theme = "@style/MainTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
     public class MainActivity : global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity
     {
         protected override void OnCreate(Bundle savedInstanceState)

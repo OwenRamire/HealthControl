@@ -145,4 +145,7 @@
   <ItemGroup>
     <BundleResource Include="Resources\LoginGoogle.png" />
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\IconoUsuario.jpg" />
+  </ItemGroup>
 </Project>

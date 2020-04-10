@@ -12,19 +12,26 @@ namespace HealtControl
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class LoginPage : ContentPage
     {
+
+        
+
+        
         public LoginPage()
         {
             InitializeComponent();
-            
-            //btnIniciaar.Clicked += btnIniciaar_Clicked;
         }
 
-        private async void btnIniciar_Clicked(object sender, EventArgs e)
+        
+        private void btnIniciar_Clicked(object sender, EventArgs e)
         {
+       
+            home modalPage = new home();
+            this.Navigation.PushModalAsync(modalPage);
+            /*
             await DisplayAlert("Success", "Login success", "Aceptar");
-            await Navigation.PushAsync(new MainPage());
-            
-
+            await Navigation.PushAsync(new home());
+            */
         }
+      
     }
 }

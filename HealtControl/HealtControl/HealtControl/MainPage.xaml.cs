@@ -13,6 +13,8 @@ namespace HealtControl
     [DesignTimeVisible(false)]
     public partial class MainPage : ContentPage
     {
+        
+
         public MainPage()
         {
             InitializeComponent();
@@ -20,14 +22,14 @@ namespace HealtControl
 
         private void btnModalIniciarSesion_Clicked(object sender, EventArgs e)
         {
-            LoginPage modalPage = new LoginPage();
-            this.Navigation.PushModalAsync(modalPage);
+            LoginPage modalPage = new LoginPage(); //Creamos una variable para la modal 
+            this.Navigation.PushModalAsync(modalPage); //Hacemos la navegacion de la modal 
         }
 
         private void btnModalRegistrar_Clicked(object sender, EventArgs e)
         {
             PaginaRegisto modalPage = new PaginaRegisto();
-            this.Navigation.PushModalAsync(modalPage);
+            this.Navigation.PushModalAsync(modalPage);  //Hacemos la navegacion de la modal 
         }
     }
 }

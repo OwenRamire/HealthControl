@@ -12,11 +12,10 @@
                    Margin="30"/>
             <Image Source="HealthControl.png" WidthRequest="200"/>
             <StackLayout Padding="20">
-                <Entry Placeholder="Correo electrónico" PlaceholderColor="White" BackgroundColor="#212121"/>
-                <Entry Placeholder="Contraseña" IsPassword="True" PlaceholderColor="White" BackgroundColor="#212121"/>
+                <Entry Placeholder="Correo electrónico" x:Name="txtCorreo" PlaceholderColor="White" BackgroundColor="#212121"/>
+                <Entry Placeholder="Contraseña" x:Name="txtContra" IsPassword="True" PlaceholderColor="White" BackgroundColor="#212121"/>
                 <StackLayout Orientation="Horizontal">
-                    <Label Text="Olvide mi contraseña" TextColor="White"/>
-                    <Label Text="Registrarse" TextColor="White" HorizontalOptions="EndAndExpand"/>
+                    <Label Text="Olvide mi contraseña" HorizontalOptions="Center" TextDecorations="Underline" TextColor="White"/>
                 </StackLayout>
                 <Button Text="Iniciar sesión" FontSize="Large" BackgroundColor="#00C851" x:Name="btnIniciar" Clicked="btnIniciar_Clicked"/>
             </StackLayout>

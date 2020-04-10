@@ -9,6 +9,8 @@ namespace HealtControl
     {
         public static MainPage MasterD { get; internal set; }
 
+        
+
         public App()
         {
             InitializeComponent();
